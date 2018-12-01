@@ -1,0 +1,228 @@
+@media (max-width:768px) {
+  .style1 {
+    background-color: #fff;
+    opacity: .800000011920929;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 375px;
+    height: 256px;
+    flex-direction: column
+  }
+  .style2 {
+    background-color: #253887;
+    margin-left: 26px;
+    margin-top: 26px;
+    width: 0;
+    height: 0
+  }
+  .style67 {
+    color: #fff;
+    font-family: dincondregularalternate,serif;
+    font-size: 2.75em;
+    margin-left: 51px;
+    margin-top: 202px;
+    height: 110px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style70 {
+    background-color: #fff;
+    opacity: .800000011920929;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 375px;
+    height: 256px;
+    flex-direction: column
+  }
+  .style71 {
+    background-color: #253887;
+    margin-left: 26px;
+    margin-top: 26px;
+    width: 0;
+    height: 0
+  }
+  .style136 {
+    color: #fff;
+    font-family: dincondregularalternate,serif;
+    font-size: 2.75em;
+    margin-left: 51px;
+    margin-top: 202px;
+    height: 110px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .style1 {
+    background-color: #fff;
+    opacity: .800000011920929;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 768px;
+    height: 524px;
+    flex-direction: column
+  }
+  .style2 {
+    background-color: #253887;
+    margin-left: 53px;
+    margin-top: 53px;
+    width: 0;
+    height: 0
+  }
+  .style67 {
+    color: #fff;
+    font-family: dincondregularalternate,serif;
+    font-size: 5.632em;
+    margin-left: 104px;
+    margin-top: 414px;
+    height: 225px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style70 {
+    background-color: #fff;
+    opacity: .800000011920929;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 768px;
+    height: 524px;
+    flex-direction: column
+  }
+  .style71 {
+    background-color: #253887;
+    margin-left: 53px;
+    margin-top: 53px;
+    width: 0;
+    height: 0
+  }
+  .style136 {
+    color: #fff;
+    font-family: dincondregularalternate,serif;
+    font-size: 5.632em;
+    margin-left: 104px;
+    margin-top: 414px;
+    height: 225px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .style1 {
+    background-color: #fff;
+    opacity: .800000011920929;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 920px;
+    height: 628px;
+    flex-direction: column
+  }
+  .style2 {
+    background-color: #253887;
+    margin-left: 64px;
+    margin-top: 64px;
+    width: 0;
+    height: 0
+  }
+  .style67 {
+    color: #fff;
+    font-family: dincondregularalternate,serif;
+    font-size: 6.746666666666666em;
+    margin-left: 125px;
+    margin-top: 496px;
+    height: 270px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style70 {
+    background-color: #fff;
+    opacity: .800000011920929;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 920px;
+    height: 628px;
+    flex-direction: column
+  }
+  .style71 {
+    background-color: #253887;
+    margin-left: 64px;
+    margin-top: 64px;
+    width: 0;
+    height: 0
+  }
+  .style136 {
+    color: #fff;
+    font-family: dincondregularalternate,serif;
+    font-size: 6.746666666666666em;
+    margin-left: 125px;
+    margin-top: 496px;
+    height: 270px
+  }
+}
+@media (min-width:1200px) {
+  .style1 {
+    background-color: #fff;
+    opacity: .800000011920929;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1200px;
+    height: 819px;
+    flex-direction: column
+  }
+  .style2 {
+    background-color: #253887;
+    margin-left: 83px;
+    margin-top: 83px;
+    width: 0;
+    height: 0
+  }
+  .style67 {
+    color: #fff;
+    font-family: dincondregularalternate,serif;
+    font-size: 8.8em;
+    margin-left: 163px;
+    margin-top: 646px;
+    height: 352px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style70 {
+    background-color: #fff;
+    opacity: .800000011920929;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1200px;
+    height: 819px;
+    flex-direction: column
+  }
+  .style71 {
+    background-color: #253887;
+    margin-left: 83px;
+    margin-top: 83px;
+    width: 0;
+    height: 0
+  }
+  .style136 {
+    color: #fff;
+    font-family: dincondregularalternate,serif;
+    font-size: 8.8em;
+    margin-left: 163px;
+    margin-top: 646px;
+    height: 352px
+  }
+}
